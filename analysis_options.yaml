@@ -3,5 +3,7 @@ analyzer:
     # 'flutter analyze' exits with 1 even on 'info':
     # https://github.com/flutter/flutter/issues/20855
     todo: ignore
+    Unused: gnore
+    Duplicate: ignore
 
 
